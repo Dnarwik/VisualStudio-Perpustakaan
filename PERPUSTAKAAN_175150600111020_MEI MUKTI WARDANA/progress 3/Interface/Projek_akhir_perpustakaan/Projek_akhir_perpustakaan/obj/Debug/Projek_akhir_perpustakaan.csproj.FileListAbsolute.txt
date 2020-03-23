@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\Projek_akhir_perpustakaan.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\Projek_akhir_perpustakaan.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\Projek_akhir_perpustakaan.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.Form2.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\obj\Debug\Projek_akhir_perpustakaan.Form3.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\MySql.Data.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Projek_akhir_perpustakaan\Projek_akhir_perpustakaan\bin\Debug\MySql.Data.xml
